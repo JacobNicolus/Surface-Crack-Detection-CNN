@@ -1,0 +1,8 @@
+Dataset Name: Surface Crack Detection
+
+Dataset Link:
+https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
+
+Classes:
+Positive - Crack
+Negative - No Crack
