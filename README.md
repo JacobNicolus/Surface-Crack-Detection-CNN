@@ -198,7 +198,7 @@ The notebook includes:
 
 ## Author
 
-**Jacob Nicholas Maggidi**
+**Jacob Nicolus Maggidi**
 
 Master's in Data Science
 
